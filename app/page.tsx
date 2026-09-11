@@ -1,6 +1,6 @@
 import Link from "next/link";
 import {
-  Anchor, ArrowDownRight, ArrowRight, BadgeCheck, ChevronRight, Droplet,
+  ArrowDownRight, ArrowRight, BadgeCheck, ChevronRight,
   Fuel, Mail, MapPin, Menu, Phone, ShieldCheck, Thermometer, Waves,
 } from "lucide-react";
 
