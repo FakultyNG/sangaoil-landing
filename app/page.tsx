@@ -76,7 +76,7 @@ export default function LandingPage() {
 
     <section className="dw-hero" id="home">
       <div className="hero-grid" /><div className="hero-current current-one" /><div className="hero-current current-two" />
-      <div className="dw-hero-copy"><p className="kicker"><Waves /> Built for African marine conditions</p><h1>Powering performance.<br /><i>Protecting</i> your journey.</h1><p className="hero-intro">Sanga Oil is focused on premium marine outboard engine lubricants for West Africa, beginning with Nigeria&apos;s fishing and marine transport sectors.</p><div className="hero-actions"><a href="#products">Explore products <ArrowDownRight /></a><a href="#contact">Talk to us <ChevronRight /></a></div></div>
+      <div className="dw-hero-copy"><p className="kicker"><Waves /> Built for African marine conditions</p><h1>Sanga Oils.<br /><i>Improving</i> and preserving engine life.</h1><p className="hero-intro">Sanga Oil is focused on premium marine outboard engine lubricants for West Africa, beginning with Nigeria&apos;s fishing and marine transport sectors.</p><div className="hero-actions"><a href="#products">Explore products <ArrowDownRight /></a><a href="#contact">Talk to us <ChevronRight /></a></div></div>
       <div className="hero-vessels" aria-hidden="true"><div className="hero-orbit orbit-a" /><div className="hero-orbit orbit-b" /><SangaDrum className="hero-drum" /></div>
       <p className="scroll-cue">SCROLL TO EXPLORE <span /></p>
     </section>
